@@ -8,7 +8,7 @@
     }
   ],
   "bs-dev-dependencies": ["@glennsl/bs-jest"],
-  "reason": true,
+  "reason": { "react-jsx": 3 },
   "refmt": 3,
   "bsc-flags": ["-bs-super-errors"],
   "package-specs": {
